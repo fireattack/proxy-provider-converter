@@ -10,7 +10,7 @@
     "analyze": "ANALYZE=true npm run build"
   },
   "dependencies": {
-    "@heroicons/react": "^2.1.1",
+    "@heroicons/react": "^1.0.2",
     "@next/bundle-analyzer": "^13.2.0",
     "@splitbee/web": "^0.2.4",
     "axios": "^1.6.8",
